@@ -1,16 +1,17 @@
-## Hi there 👋
+## Deliverance Node
 
-<!--
-**DeliveranceNode/DeliveranceNode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deliverance Node is a collection of 10,000 unique generative network structures.
 
-Here are some ideas to get you started:
+Each Node is generated from a combination of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Core architecture
+* Network density
+* Signal pathways
+* Connection patterns
+* Visual resonance
+
+No two Nodes are identical.
+
+The collection explores emergence: the appearance of complex systems from simple rules.
+
+This repository contains project documentation, collection specifications and source material.
